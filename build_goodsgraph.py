@@ -244,9 +244,7 @@ class MedicalGraph:
  
 
 if __name__ == '__main__':
-    # gragh = MedicalGraph()
-    # gragh.create()
-    # gragh.export_data()
-    parse = LtpParser()
-    print(parse.get_words('引色粉自己验证过的方法送两套搭建黄片色情网站教程含源码'))
+    gragh = MedicalGraph()
+    gragh.create()
+    gragh.export_data()
 
