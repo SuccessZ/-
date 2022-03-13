@@ -33,8 +33,7 @@
    | goods_time                | 商品时间？？         | 商品节点的属性   |
    | goods_url                 | 商品网址             | 商品节点的属性   |
    | snap                      | 不知道有啥用         | 商品节点的属性   |
-
-
+4. 请安装python库包pyltp,并下载响应模型(本项目模型为`ltp_data_v3.4.0`)。pyltp 安装方法详见 https://github.com/HIT-SCIR/pyltp
 
 #### 运行文件
 
